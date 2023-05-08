@@ -1,0 +1,11 @@
+*{
+    margin: 10px;
+    padding: 5px;
+}
+.text{
+    text-align: center;
+    font-size:1500%;
+    text-decoration: double;
+    background-color:none;
+    color: black;
+}
